@@ -1,16 +1,65 @@
-## Hi there 👋
+### Hi there, I'm [Nithin] 👋
 
-<!--
-**Nithin1201/Nithin1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack Developer | Cloud & DevOps Enthusiast**  
+🎓 **College Student passionate about scalable applications**  
+💡 **Exploring Data Science, Blockchain, and Cybersecurity**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- 🎓 Studying Full-Stack Development
+- 🏢 Interned at **Ramco Cements (IT Department)** & **Indian Railways (IT & Signal/Telecom Departments)**
+- 🏆 Built a **Full-Stack Insurance Management System** in 6 months
+- 💡 Passionate about **Cloud Computing, DevOps, and AI-driven applications**
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend:**
+- React.js, HTML, CSS, JavaScript
+
+### **Backend:**
+- Node.js, Express.js, Python (Flask/Django)
+
+### **Databases:**
+- MySQL, PostgreSQL, SQLite
+
+### **DevOps & Cloud:**
+- AWS, Docker, Kubernetes, Jenkins, Ansible
+
+### **Android Development:**
+- Java, Kotlin, Retrofit, SQLite
+
+### **Blockchain:**
+- Solidity, Ganache, Truffle, Hardhat
+
+---
+
+## 🏆 Projects
+
+### **1. Insurance Management System**
+🔹 **Stack:** React.js, Node.js, Express.js, MongoDB  
+🔹 **Features:** Policy management, claim processing, user authentication
+
+### **2. Portfolio Website (React & Tailwind CSS)**
+🔹 **Stack:** React.js, Tailwind CSS  
+🔹 **Features:** Responsive UI, dark/light mode, interactive projects section
+
+---
+
+## 📜 Certifications
+- ✅ **Machine Learning with Python** - Coursera
+- ✅ **Introduction to Cybersecurity** - Cisco Networking
+- ✅ **Introduction to BlockChain** - NPTEL
+- ✅ **Programming in C++** - NPTEL
+
+---
+
+## 📫 Connect With Me
+- 🌍 [LinkedIn](https://www.linkedin.com/in/nithin-s12/) 
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
